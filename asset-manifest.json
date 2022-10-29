@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://grapava00.github.io/csb-01txuf/static/css/main.d423a99f.chunk.css",
-    "main.js": "https://grapava00.github.io/csb-01txuf/static/js/main.79104f3c.chunk.js",
-    "main.js.map": "https://grapava00.github.io/csb-01txuf/static/js/main.79104f3c.chunk.js.map",
+    "main.css": "https://grapava00.github.io/csb-01txuf/static/css/main.292ed916.chunk.css",
+    "main.js": "https://grapava00.github.io/csb-01txuf/static/js/main.80f1e0f8.chunk.js",
+    "main.js.map": "https://grapava00.github.io/csb-01txuf/static/js/main.80f1e0f8.chunk.js.map",
     "runtime-main.js": "https://grapava00.github.io/csb-01txuf/static/js/runtime-main.c0f2a6e8.js",
     "runtime-main.js.map": "https://grapava00.github.io/csb-01txuf/static/js/runtime-main.c0f2a6e8.js.map",
     "static/js/2.b0b468f6.chunk.js": "https://grapava00.github.io/csb-01txuf/static/js/2.b0b468f6.chunk.js",
     "static/js/2.b0b468f6.chunk.js.map": "https://grapava00.github.io/csb-01txuf/static/js/2.b0b468f6.chunk.js.map",
     "index.html": "https://grapava00.github.io/csb-01txuf/index.html",
-    "static/css/main.d423a99f.chunk.css.map": "https://grapava00.github.io/csb-01txuf/static/css/main.d423a99f.chunk.css.map",
+    "static/css/main.292ed916.chunk.css.map": "https://grapava00.github.io/csb-01txuf/static/css/main.292ed916.chunk.css.map",
     "static/js/2.b0b468f6.chunk.js.LICENSE.txt": "https://grapava00.github.io/csb-01txuf/static/js/2.b0b468f6.chunk.js.LICENSE.txt",
     "static/media/icon-dollar.9f9be353.svg": "https://grapava00.github.io/csb-01txuf/static/media/icon-dollar.9f9be353.svg",
     "static/media/icon-person.65bfd204.svg": "https://grapava00.github.io/csb-01txuf/static/media/icon-person.65bfd204.svg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0f2a6e8.js",
     "static/js/2.b0b468f6.chunk.js",
-    "static/css/main.d423a99f.chunk.css",
-    "static/js/main.79104f3c.chunk.js"
+    "static/css/main.292ed916.chunk.css",
+    "static/js/main.80f1e0f8.chunk.js"
   ]
 }
